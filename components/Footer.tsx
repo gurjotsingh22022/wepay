@@ -14,7 +14,7 @@ export function Footer() {
               className="px-1 underline underline-offset-2"
               href="#"
             >
-              Gurjot's Webners
+              Gurjot&rsquo;s Webners
             </Link>
             . Copyright &copy; {new Date().getFullYear()} WePay.
           </p>

@@ -56,9 +56,9 @@ const Hero = () => {
           <div className="w-full ps-6 lg:ps-0 lg:col-span-1">
             <div className="mt-10">
               <h1 className="mt-3 max-w-xl text-heading-6 !font-semibold text-metal-900 md:text-heading-3 dark:text-white">
-                <span className="block">"From Budgeting to</span>
-                <span className="block">Payment - We've Got</span>
-                <span className="block">You Covered"</span>
+                <span className="block">&rdquo;From Budgeting to</span>
+                <span className="block">Payment - We&rsquo;ve Got</span>
+                <span className="block">You Covered&rdquo;</span>
               </h1>
               <p className="mb-7 mt-2 w-full text-body-4 font-normal text-metal-600 md:max-w-[500px] lg:max-w-[526px] lg:text-body-3 dark:text-metal-300">
               Send and receive money anytime, anywhere. With lightning-fast processing and user-friendly features, staying connected financially has never been easier.
